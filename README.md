@@ -19,3 +19,7 @@ estudo sobre WordPress
 - Criar página de mais vendidos
 - Criar página de mais acessados
 - Criar página de mais avaliados
+
+**Links:**
+
+- Shotcodes: http://loja.manual.wp.site.com.br/inicio-2/introducao/shortcodes-incluido-com-woocommerce/#section-1
